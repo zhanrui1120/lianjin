@@ -107,7 +107,7 @@
 "ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/pianba.json"
 }
 
-],{
+{
       "key": "番茄",
       "name": "番茄",
       "type": 1,
@@ -172,6 +172,7 @@
       "quickSearch": 1,
       "filterable": 0
     }
+],
 "lives": [
 {
 "group": "redirect",
